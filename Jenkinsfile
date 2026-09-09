@@ -13,4 +13,3 @@ bat 'mvnw.cmd clean test'
 }
 }
 }
-}
