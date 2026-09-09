@@ -3,7 +3,7 @@ agent any
 stages{
 stage('checkout'){
 steps{
-git'https://github.com/vasanth03v-sys/cucumberFramework.git''}
+git'https://github.com/vasanth03v-sys/cucumberFramework.git'}
 }
 }
 stage('Build'){
